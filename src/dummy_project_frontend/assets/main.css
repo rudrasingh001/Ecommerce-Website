@@ -10,10 +10,7 @@ img {
     margin: auto;
 }
 
-.card-img img-fluid{
-    max-height: 500vw;
 
-}
 
 form {
     display: flex;
