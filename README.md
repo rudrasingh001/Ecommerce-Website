@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# dummy_project
+
 
 Welcome to your new dummy_project project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
@@ -65,4 +64,4 @@ This is a E-Commerce Website having all its basic features like  LOGIN, SIGNUP, 
 Hosted URLs are:-<br>
 FRONTEND URL:-  https://rate2-naaaa-aaaao-a2lrq-cai.icp0.io/<br>
 BACKEND URL :- https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=rhsco-ayaaa-aaaao-a2lra-cai
->>>>>>> 581ce6a219993b5e027f3e17755bb0f816bab8e0
+
