@@ -1,0 +1,79 @@
+
+  
+  
+  
+  
+  
+  
+
+  
+  .ford {
+    right: 0;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+  }
+  
+  .web-txt-auth{
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .hero {
+    text-align: center;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .but {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background: #0c0c0c;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ .but:hover {
+    background: #0056b3;
+  }
+  
+  .para {
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: underline;
+  } 
+  
+  .form-column h1{
+      font-size: 30px;
+      margin-bottom: 20px;
+      text-align: center;
+      color: #000;
+  }
+ 
+  
+  
+    .web-txt-auth {
+      font-size: 24px;
+      font-weight: bold;
+      color: #fff;
+      position: relative;
+      margin-top: 30px;
+      margin-bottom: 50px;
+      text-align: center;
+    }
+  
+  
+   
