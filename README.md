@@ -1,4 +1,4 @@
-# Quad-B-Assignment <hr/>
+
 This is a E-Commerce Website having all its basic features like  LOGIN, SIGNUP, CART ITEM UPDATE . This has been developed with the help of React js(frontend) & Motoko(backend). It has been hosted on ICP. 
 <br>
 Hosted URLs are:-<br>
